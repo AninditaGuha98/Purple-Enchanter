@@ -5,7 +5,7 @@ A single page profile web template powered by Jekyll.
 It is a flat design single page card style profile site that runs the liquid powered by Jekyll. Easy to setup and use as your profile website.
 
 # Have a look?
-Purple Enchanter
+[Purple Enchanter](https://github.com/riyashekann/Purple-Enchanter)
 
 # How to use?
 To use Purple Enchanter as your profile website,
@@ -16,4 +16,4 @@ Fork this repository. Upload your profile picture in images directory with the d
 Jekyll - The static site generator.
 
 # Contributing
-Made with ❤ by Anindita Guha
+Made with ❤ by [Anindita Guha](https://riyashekann.github.io)
